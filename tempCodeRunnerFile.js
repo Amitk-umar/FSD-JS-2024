@@ -1,0 +1,1 @@
+ console.log(array[array.length-1]);
